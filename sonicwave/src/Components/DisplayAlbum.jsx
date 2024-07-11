@@ -18,7 +18,7 @@ const DisplayAlbum = () => {
                 <h4>{albumData.desc}</h4>
             <p className='mt-1'>
                 <img className='inline-block w-6' src={assets.spotify_logo} alt="" />
-                <b>SoniceWave</b>
+                <b>SonicWave</b>
                 • 12,232,122 likes
                 • <b>50 Songs,</b>
                 about 2hr 30 min
